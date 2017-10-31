@@ -1,4 +1,4 @@
-# Internet-Download-Manager
+# Internet-Download-MANAGER
 This is a prototype of a fully functional internet download manager which accepts an URL from the user and starts downloading content from that URL.
 Major Festures-<br>
 1.GUI contains Progress Bar to show the percentage of downloading completed.<br>
